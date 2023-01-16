@@ -1,0 +1,1 @@
+git push했을때 아이디가 mintolb로 뜨길래 git config --global user.name "sua" 해봄
